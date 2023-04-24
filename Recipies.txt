@@ -1,0 +1,3 @@
+GingerbreadBiscuit:100:Piece:Flour%3%Komment;Milk%4%hejsan:Stir
+MARTIN:3:Piece:Egg%2%R;Milk%2%s:kung
+Test test:1:Piece:Egg%1%Crack it first;Milk%2%Fill one cup then stir:Bake in oven

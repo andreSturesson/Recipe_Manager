@@ -1,0 +1,7 @@
+Egg:Piece:10
+Milk:Liter:12
+Flour:Kilo:20
+Banana:Piece:5
+Apple:Piece:4
+test:test:5
+Sugar:Kilogram:25
